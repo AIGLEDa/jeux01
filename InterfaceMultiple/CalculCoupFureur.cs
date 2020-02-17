@@ -13,7 +13,6 @@ namespace Jeux01.InterfaceMultiple
             NombreDonne = nombreDonne;
         }
 
-
         public int CalculerDegats(int nombreDonne)
         {
 

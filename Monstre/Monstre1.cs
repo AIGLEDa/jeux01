@@ -8,8 +8,8 @@ namespace Jeux01.Monstre
     public class Monstre1 : BaseMonstre
     {
         public  Monstre1 Monstre1x { get; set; }
-        public int PointDeVieMonstre1 { get; set; } = 600;
-        public int PointAttaqueMonstre1 { get; set; } = 12;
+        public int PointDeVieMonstre1 { get; set; } = 1000;
+        public int PointAttaqueMonstre1 { get; set; } = 25;
 
         public Monstre1()
         {
@@ -20,30 +20,9 @@ namespace Jeux01.Monstre
         {
         }
 
-        /*
-        public virtual void AttaqueAleatoire(BasePersonnage personnageNumero0, BaseMonstre MonstreDeBase0)
-        {
-            // Monstre1.PointAttaqueMonstre = 12;
-            //  BasePersonnage.PointAttaque = 10;
-            Random aleatoire = new Random();
-            int NombrePourquiAttaque = aleatoire.Next(0, 2); //Génère un entier compris entre 0 et 1
-            if (NombrePourquiAttaque == 0 && PointDeVie > 0)
-            {
-            //    personnageNumero0.Attaquer();
-            }
-            if (NombrePourquiAttaque == 1 && PointDeVie > 0)
-            {
-                MonstreDeBase0.Attaquer();
-            }
-        }
-        */
-
-
         public virtual void AttaquerMonstre1()
         {
             {
-                // PointAttaque = 15;
-
                 Random aleatoire = new Random();
                 int entierUnChiffre = aleatoire.Next(1, 10); //Génère un entier compris entre 1 et 9
                 int PointAttaqueFinalPerso1 = PointAttaqueMonstre1 * entierUnChiffre;
@@ -53,27 +32,8 @@ namespace Jeux01.Monstre
             }
         }
 
-        /*
-        public override void Mort()
-        {
-            if (PointDeVieMonstre1 == 0 || PointDeVieMonstre1 < 0)
-            {
-                Console.WriteLine("le monstre1 est mort");
-                return;
-            }
-        }
-        */
-
-        /// <summary>
-        /// 
-        /// </summary>
         public void Attaquer()
         {
-            //Monstre1.PointAttaqueMonstre = 12;
-            //Monstre1.PointDeVie = 600;
-            
-            
-                //Monstre1.PointAttaqueMonstre = 12;
                 Random aleatoireMonstre1 = new Random();
                 int entierUnChiffreMonstre1 = aleatoireMonstre1.Next(1, 5); //Génère un entier compris entre 0 et 10
                 int PointAttaqueFinalMonstre1 = PointAttaqueMonstre1 * entierUnChiffreMonstre1;
@@ -90,24 +50,6 @@ namespace Jeux01.Monstre
             
         }
 
-
-       /*
-        public override void AttaqueAleatoire(BasePersonnage personnageNumero0, BaseMonstre MonstreDeBase0)
-        {
-            // Monstre1.PointAttaqueMonstre = 12;
-            //  BasePersonnage.PointAttaque = 10;
-            Random aleatoire = new Random();
-            int NombrePourquiAttaque = aleatoire.Next(0, 2); //Génère un entier compris entre 0 et 1
-            if (NombrePourquiAttaque == 0 && PointDeVie > 0)
-            {
-                personnageNumero0.Attaquer();
-            }
-            if (NombrePourquiAttaque == 1 && PointDeVie > 0)
-            {
-                MonstreDeBase0.Attaquer();
-            }
-        }
-        */
 
         public void AttaqueAleatoireMonstre1()
         {

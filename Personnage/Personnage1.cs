@@ -19,16 +19,8 @@ namespace Jeux01.Personnage
         public static int EnduranceChevalier { get; set; } = 300;
         public static int DegatsPourFureur { get; set; } = 0;
 
-
-
         public Personnage1()
         {
-
-        }
-
-        public Personnage1(string nomPersonnage, string typeDeCombattant) : base(nomPersonnage, typeDeCombattant)
-        {
-
 
         }
 
@@ -61,10 +53,7 @@ namespace Jeux01.Personnage
                 int PointAttaqueFinalPerso1 = Personnage1.PointAttaqueEpee * aleatoireChevalier.Next(0, 16);
                 Monstre1.PointDeVieMonstre1 = Monstre1.PointDeVieMonstre1 - PointAttaqueFinalPerso1;
                 Console.WriteLine($"Dégats du chevalier {PointAttaqueFinalPerso1} et la vie du monstre1 : {Monstre1.PointDeVieMonstre1}");
-
             }
-
-
 
             if (typeMenuChevalier == (int)EnumMenuPerso1.AttaqueRapide && Personnage1.EnduranceChevalier > 50)
             {
@@ -74,23 +63,20 @@ namespace Jeux01.Personnage
                 // Console.WriteLine($"L'attaque du personnage2 est de : {PointAttaqueFinalPerso2}");
                 Monstre1.PointDeVieMonstre1 = Monstre1.PointDeVieMonstre1 - PointAttaqueFinalPerso1Rapide;
                 Console.WriteLine($"Dégats du chevalier {PointAttaqueFinalPerso1Rapide} et la vie du monstre1 : {Monstre1.PointDeVieMonstre1}");
-                
 
             }
 
-            if(Monstre1.PointAttaqueMonstre1 > 300)
+            if(Monstre1.PointAttaqueMonstre1 > 150)
             {
-               Personnage1.DegatsPourFureur = Personnage1.DegatsPourFureur + 300;
+               Personnage1.DegatsPourFureur = Personnage1.DegatsPourFureur + 150;
             }
 
-            if (typeMenuChevalier == (int)EnumMenuPerso1.AttaqueFureur && Personnage1.DegatsPourFureur >= 300)
+            if (typeMenuChevalier == (int)EnumMenuPerso1.AttaqueFureur && Personnage1.DegatsPourFureur >= 150)
             {
-                
                 Random aleatoireChevalierAttaqueFureur = new Random();
                 int sommeDesDegatsChevalier = Personnage1.DegatsPourFureur * aleatoireChevalierAttaqueFureur.Next(0, 25);
                 Monstre1.PointDeVieMonstre1 = Monstre1.PointDeVieMonstre1 - sommeDesDegatsChevalier;
                 Console.WriteLine($"Le chevalier fait une percée dans les défenses de l'enemie de {sommeDesDegatsChevalier}, le monstre est affaiblie {Monstre1.PointDeVieMonstre1}");
-
             }
 
             if(typeMenuChevalier == (int)EnumMenuPerso1.ProtegerAlliee)
