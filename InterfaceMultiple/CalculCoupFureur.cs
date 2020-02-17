@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Jeux01.InterfaceMultiple
 {
-    class CalculCoupFureur : ICalculAttaque
+    class CalculCoupFureur : IcalculAttaque
     {
         public int NombreDonne { get; set; }
 
@@ -22,7 +22,7 @@ namespace Jeux01.InterfaceMultiple
             int valeurDuNombreDonneColere = nombreDonne - pointDegatsAttaqueARetirer;
             int pointDegatsDonnes = valeurDuNombreDonneColere + aleatoireColere.Next(0, 4);
 
-            int nombreDegatsCritique = aleatoireColere.Next(4, 28); //Génère un entier compris entre 0 et 24
+            int nombreDegatsCritique = aleatoireColere.Next(4, 28); 
             int degatsCritique = pointDegatsDonnes * nombreDegatsCritique;
             return degatsCritique;
 

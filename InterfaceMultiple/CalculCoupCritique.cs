@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Jeux01.InterfaceMultiple
 {
-     class CalculCoupCritique : ICalculAttaque
+     public class CalculCoupCritique : IcalculAttaque
     {
 
       //  public int NombreAleatoireCoupCritique {get; set;}

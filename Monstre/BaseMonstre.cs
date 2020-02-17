@@ -11,18 +11,36 @@ namespace Jeux01.Monstre
         public Personnage2 Personnage2 { get; set; }
         public string Nom { get; set; }
         public int CompteurNombreAttaqueRapide { get; set; }
-        
+        public int PointDeVieMonstre { get; set; }
 
         public BaseMonstre()
         {
-
         }
+
 
         public BaseMonstre(string nom)
         {
             Nom = nom;
         }
 
+        /*
+        public virtual int AttaqueAleatoireMonstre()
+        {
+
+            Random tourAleatoireMonstre = new Random();
+            int nombreAleatoire = tourAleatoireMonstre.Next(0, 3);
+            return nombreAleatoire;
+        }
+        */
+
+        /*
+        public virtual void Mort(BaseMonstre monstre)
+        {
+
+        }
+        */
+
+        /*
         public virtual void AttaqueAleatoire(BasePersonnage personnageNumero0, BaseMonstre MonstreDeBase0)
         {
            // Monstre1.PointAttaqueMonstre = 12;
@@ -38,7 +56,10 @@ namespace Jeux01.Monstre
                 MonstreDeBase0.Attaquer();
             }
         }
+        */
 
+
+        /*
         public virtual void Attaquer()
         {
             //PointAttaqueMonstre = 12;
@@ -55,6 +76,7 @@ namespace Jeux01.Monstre
                 attaqueRapideMonstre();
             }
         }
+        */
 
         public virtual void attaqueRapideMonstre()
         {
