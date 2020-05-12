@@ -1,1 +1,17 @@
 .vs/
+bin/*
+obj/*
+Monstre/MonstreBoss1.cs
+obj/Debug/netcoreapp3.1/Jeux01.assets.cache
+obj/Debug/netcoreapp3.1/Jeux01.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp3.1/Jeux01.csprojAssemblyReference.cache
+obj/Jeux01.csproj.nuget.dgspec.json
+obj/Jeux01.csproj.nuget.g.props
+obj/project.assets.json
+Monstre/MonstreBoss1.cs
+obj/Debug/netcoreapp3.1/Jeux01.assets.cache
+obj/Debug/netcoreapp3.1/Jeux01.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp3.1/Jeux01.csprojAssemblyReference.cache
+obj/Jeux01.csproj.nuget.dgspec.json
+obj/Jeux01.csproj.nuget.g.props
+obj/project.assets.json
