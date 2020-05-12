@@ -30,11 +30,11 @@ namespace Jeux01.Personnage
             Console.WriteLine("Paillette attaque");
             Console.WriteLine("Menu:0 Attaque Coup de corne");
             Console.WriteLine("Menu:1 Attaque Dash Corne");
-            Console.WriteLine("Menu:2 ttaque Pet de paillettes");
-            Console.WriteLine("Menu:3 Protéger Alliée ");
+            Console.WriteLine("Menu:2 Attaque Pet de paillettes");
+            Console.WriteLine("Menu:3 Protéger Alliée");
             Console.WriteLine("Menu:4 Parer Attaque");
             Console.WriteLine("Menu:5 Manger fleur magique");
-            Console.WriteLine("Menu:6 Appeller Navi pour conseil");
+            Console.WriteLine("Menu:6 Appeler Navi pour conseil");
 
 
             string optionMenuPailette = Console.ReadLine();
