@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FORMATION_PRO\\OUTILS_USINE_DEV\\jeux01\\Jeux01.csproj": {}
+    "C:\\Users\\astrid.rangba\\Documents\\GIT\\CSHARP_ARCHI_APIREST\\Damien\\jeux01\\Jeux01.csproj": {}
   },
   "projects": {
-    "C:\\FORMATION_PRO\\OUTILS_USINE_DEV\\jeux01\\Jeux01.csproj": {
+    "C:\\Users\\astrid.rangba\\Documents\\GIT\\CSHARP_ARCHI_APIREST\\Damien\\jeux01\\Jeux01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FORMATION_PRO\\OUTILS_USINE_DEV\\jeux01\\Jeux01.csproj",
+        "projectUniqueName": "C:\\Users\\astrid.rangba\\Documents\\GIT\\CSHARP_ARCHI_APIREST\\Damien\\jeux01\\Jeux01.csproj",
         "projectName": "Jeux01",
-        "projectPath": "C:\\FORMATION_PRO\\OUTILS_USINE_DEV\\jeux01\\Jeux01.csproj",
-        "packagesPath": "C:\\Users\\laetitia.bourgois\\.nuget\\packages\\",
-        "outputPath": "C:\\FORMATION_PRO\\OUTILS_USINE_DEV\\jeux01\\obj\\",
+        "projectPath": "C:\\Users\\astrid.rangba\\Documents\\GIT\\CSHARP_ARCHI_APIREST\\Damien\\jeux01\\Jeux01.csproj",
+        "packagesPath": "C:\\Users\\astrid.rangba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\astrid.rangba\\Documents\\GIT\\CSHARP_ARCHI_APIREST\\Damien\\jeux01\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\laetitia.bourgois\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\astrid.rangba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
