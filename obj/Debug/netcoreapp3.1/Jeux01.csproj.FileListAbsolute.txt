@@ -9,3 +9,16 @@ C:\Users\damien.aigle\Desktop\CsharpExoDamienPerso\exo1\jeux01RPG\Jeux01\bin\Deb
 C:\Users\damien.aigle\Desktop\CsharpExoDamienPerso\exo1\jeux01RPG\Jeux01\bin\Debug\netcoreapp3.1\Jeux01.pdb
 C:\Users\damien.aigle\Desktop\CsharpExoDamienPerso\exo1\jeux01RPG\Jeux01\obj\Debug\netcoreapp3.1\Jeux01.dll
 C:\Users\damien.aigle\Desktop\CsharpExoDamienPerso\exo1\jeux01RPG\Jeux01\obj\Debug\netcoreapp3.1\Jeux01.pdb
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\bin\Debug\netcoreapp3.1\Jeux01.exe
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\bin\Debug\netcoreapp3.1\Jeux01.deps.json
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\bin\Debug\netcoreapp3.1\Jeux01.runtimeconfig.json
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\bin\Debug\netcoreapp3.1\Jeux01.runtimeconfig.dev.json
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\bin\Debug\netcoreapp3.1\Jeux01.dll
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\bin\Debug\netcoreapp3.1\Jeux01.pdb
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\obj\Debug\netcoreapp3.1\Jeux01.csprojAssemblyReference.cache
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\obj\Debug\netcoreapp3.1\Jeux01.csproj.CoreCompileInputs.cache
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\obj\Debug\netcoreapp3.1\Jeux01.AssemblyInfoInputs.cache
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\obj\Debug\netcoreapp3.1\Jeux01.AssemblyInfo.cs
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\obj\Debug\netcoreapp3.1\Jeux01.dll
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\obj\Debug\netcoreapp3.1\Jeux01.pdb
+C:\Users\fanny.bouffanais\Desktop\testcicd\jeux01\obj\Debug\netcoreapp3.1\Jeux01.genruntimeconfig.cache
