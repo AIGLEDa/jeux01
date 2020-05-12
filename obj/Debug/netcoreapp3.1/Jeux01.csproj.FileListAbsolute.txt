@@ -9,6 +9,7 @@ C:\Users\damien.aigle\Desktop\CsharpExoDamienPerso\exo1\jeux01RPG\Jeux01\bin\Deb
 C:\Users\damien.aigle\Desktop\CsharpExoDamienPerso\exo1\jeux01RPG\Jeux01\bin\Debug\netcoreapp3.1\Jeux01.pdb
 C:\Users\damien.aigle\Desktop\CsharpExoDamienPerso\exo1\jeux01RPG\Jeux01\obj\Debug\netcoreapp3.1\Jeux01.dll
 C:\Users\damien.aigle\Desktop\CsharpExoDamienPerso\exo1\jeux01RPG\Jeux01\obj\Debug\netcoreapp3.1\Jeux01.pdb
+<<<<<<< HEAD
 C:\Users\astrid.rangba\Documents\GIT\CSHARP_ARCHI_APIREST\Damien\jeux01\bin\Debug\netcoreapp3.1\Jeux01.exe
 C:\Users\astrid.rangba\Documents\GIT\CSHARP_ARCHI_APIREST\Damien\jeux01\bin\Debug\netcoreapp3.1\Jeux01.deps.json
 C:\Users\astrid.rangba\Documents\GIT\CSHARP_ARCHI_APIREST\Damien\jeux01\bin\Debug\netcoreapp3.1\Jeux01.runtimeconfig.json
@@ -20,3 +21,16 @@ C:\Users\astrid.rangba\Documents\GIT\CSHARP_ARCHI_APIREST\Damien\jeux01\obj\Debu
 C:\Users\astrid.rangba\Documents\GIT\CSHARP_ARCHI_APIREST\Damien\jeux01\obj\Debug\netcoreapp3.1\Jeux01.AssemblyInfo.cs
 C:\Users\astrid.rangba\Documents\GIT\CSHARP_ARCHI_APIREST\Damien\jeux01\obj\Debug\netcoreapp3.1\Jeux01.dll
 C:\Users\astrid.rangba\Documents\GIT\CSHARP_ARCHI_APIREST\Damien\jeux01\obj\Debug\netcoreapp3.1\Jeux01.pdb
+=======
+C:\Users\manon.touchard\Documents\01_COURS\C_PRO\USINE DEV\jeux01\bin\Debug\netcoreapp3.1\Jeux01.exe
+C:\Users\manon.touchard\Documents\01_COURS\C_PRO\USINE DEV\jeux01\bin\Debug\netcoreapp3.1\Jeux01.deps.json
+C:\Users\manon.touchard\Documents\01_COURS\C_PRO\USINE DEV\jeux01\bin\Debug\netcoreapp3.1\Jeux01.runtimeconfig.json
+C:\Users\manon.touchard\Documents\01_COURS\C_PRO\USINE DEV\jeux01\bin\Debug\netcoreapp3.1\Jeux01.runtimeconfig.dev.json
+C:\Users\manon.touchard\Documents\01_COURS\C_PRO\USINE DEV\jeux01\bin\Debug\netcoreapp3.1\Jeux01.dll
+C:\Users\manon.touchard\Documents\01_COURS\C_PRO\USINE DEV\jeux01\bin\Debug\netcoreapp3.1\Jeux01.pdb
+C:\Users\manon.touchard\Documents\01_COURS\C_PRO\USINE DEV\jeux01\obj\Debug\netcoreapp3.1\Jeux01.csprojAssemblyReference.cache
+C:\Users\manon.touchard\Documents\01_COURS\C_PRO\USINE DEV\jeux01\obj\Debug\netcoreapp3.1\Jeux01.AssemblyInfoInputs.cache
+C:\Users\manon.touchard\Documents\01_COURS\C_PRO\USINE DEV\jeux01\obj\Debug\netcoreapp3.1\Jeux01.AssemblyInfo.cs
+C:\Users\manon.touchard\Documents\01_COURS\C_PRO\USINE DEV\jeux01\obj\Debug\netcoreapp3.1\Jeux01.dll
+C:\Users\manon.touchard\Documents\01_COURS\C_PRO\USINE DEV\jeux01\obj\Debug\netcoreapp3.1\Jeux01.pdb
+>>>>>>> master
