@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\laetitia.bourgois\\.nuget\\packages\\": {}
+    "C:\\Users\\sandra.brun\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FORMATION_PRO\\OUTILS_USINE_DEV\\jeux01\\Jeux01.csproj",
+      "projectUniqueName": "C:\\Users\\sandra.brun\\Documents\\GitHub\\jeux01\\Jeux01.csproj",
       "projectName": "Jeux01",
-      "projectPath": "C:\\FORMATION_PRO\\OUTILS_USINE_DEV\\jeux01\\Jeux01.csproj",
-      "packagesPath": "C:\\Users\\laetitia.bourgois\\.nuget\\packages\\",
-      "outputPath": "C:\\FORMATION_PRO\\OUTILS_USINE_DEV\\jeux01\\obj\\",
+      "projectPath": "C:\\Users\\sandra.brun\\Documents\\GitHub\\jeux01\\Jeux01.csproj",
+      "packagesPath": "C:\\Users\\sandra.brun\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sandra.brun\\Documents\\GitHub\\jeux01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\laetitia.bourgois\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sandra.brun\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
