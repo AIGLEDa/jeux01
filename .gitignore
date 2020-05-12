@@ -1,4 +1,7 @@
 .vs/
+
+bin/*
+obj/*
 .idea/
 bin/Debug/netcoreapp3.1/Jeux01.dll
 bin/Debug/netcoreapp3.1/Jeux01.pdb
