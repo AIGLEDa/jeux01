@@ -9,3 +9,14 @@ C:\Users\damien.aigle\Desktop\CsharpExoDamienPerso\exo1\jeux01RPG\Jeux01\bin\Deb
 C:\Users\damien.aigle\Desktop\CsharpExoDamienPerso\exo1\jeux01RPG\Jeux01\bin\Debug\netcoreapp3.1\Jeux01.pdb
 C:\Users\damien.aigle\Desktop\CsharpExoDamienPerso\exo1\jeux01RPG\Jeux01\obj\Debug\netcoreapp3.1\Jeux01.dll
 C:\Users\damien.aigle\Desktop\CsharpExoDamienPerso\exo1\jeux01RPG\Jeux01\obj\Debug\netcoreapp3.1\Jeux01.pdb
+C:\FORMATION_PRO\OUTILS_USINE_DEV\jeux01\bin\Debug\netcoreapp3.1\Jeux01.exe
+C:\FORMATION_PRO\OUTILS_USINE_DEV\jeux01\bin\Debug\netcoreapp3.1\Jeux01.deps.json
+C:\FORMATION_PRO\OUTILS_USINE_DEV\jeux01\bin\Debug\netcoreapp3.1\Jeux01.runtimeconfig.json
+C:\FORMATION_PRO\OUTILS_USINE_DEV\jeux01\bin\Debug\netcoreapp3.1\Jeux01.runtimeconfig.dev.json
+C:\FORMATION_PRO\OUTILS_USINE_DEV\jeux01\bin\Debug\netcoreapp3.1\Jeux01.dll
+C:\FORMATION_PRO\OUTILS_USINE_DEV\jeux01\bin\Debug\netcoreapp3.1\Jeux01.pdb
+C:\FORMATION_PRO\OUTILS_USINE_DEV\jeux01\obj\Debug\netcoreapp3.1\Jeux01.csprojAssemblyReference.cache
+C:\FORMATION_PRO\OUTILS_USINE_DEV\jeux01\obj\Debug\netcoreapp3.1\Jeux01.AssemblyInfoInputs.cache
+C:\FORMATION_PRO\OUTILS_USINE_DEV\jeux01\obj\Debug\netcoreapp3.1\Jeux01.AssemblyInfo.cs
+C:\FORMATION_PRO\OUTILS_USINE_DEV\jeux01\obj\Debug\netcoreapp3.1\Jeux01.dll
+C:\FORMATION_PRO\OUTILS_USINE_DEV\jeux01\obj\Debug\netcoreapp3.1\Jeux01.pdb
