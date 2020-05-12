@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\laetitia.bourgois\\.nuget\\packages\\": {}
+    "C:\\Users\\krystel.menot\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FORMATION_PRO\\OUTILS_USINE_DEV\\jeux01\\Jeux01.csproj",
+      "projectUniqueName": "C:\\WORLD\\jeux01\\Jeux01.csproj",
       "projectName": "Jeux01",
-      "projectPath": "C:\\FORMATION_PRO\\OUTILS_USINE_DEV\\jeux01\\Jeux01.csproj",
-      "packagesPath": "C:\\Users\\laetitia.bourgois\\.nuget\\packages\\",
-      "outputPath": "C:\\FORMATION_PRO\\OUTILS_USINE_DEV\\jeux01\\obj\\",
+      "projectPath": "C:\\WORLD\\jeux01\\Jeux01.csproj",
+      "packagesPath": "C:\\Users\\krystel.menot\\.nuget\\packages\\",
+      "outputPath": "C:\\WORLD\\jeux01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\laetitia.bourgois\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\krystel.menot\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
