@@ -1,1 +1,15 @@
 .vs/
+bin/*
+obj/*
+bin/Debug/netcoreapp3.1/Jeux01.dll
+bin/Debug/netcoreapp3.1/Jeux01.pdb
+obj/Debug/netcoreapp3.1/Jeux01.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp3.1/Jeux01.csprojAssemblyReference.cache
+obj/Debug/netcoreapp3.1/Jeux01.dll
+obj/Debug/netcoreapp3.1/Jeux01.pdb
+bin/Debug/netcoreapp3.1/Jeux01.dll
+bin/Debug/netcoreapp3.1/Jeux01.pdb
+obj/Debug/netcoreapp3.1/Jeux01.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp3.1/Jeux01.csprojAssemblyReference.cache
+obj/Debug/netcoreapp3.1/Jeux01.dll
+obj/Debug/netcoreapp3.1/Jeux01.pdb
