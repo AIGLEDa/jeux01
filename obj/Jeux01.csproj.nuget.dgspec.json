@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\fanny.bouffanais\\Desktop\\testcicd\\jeux01\\Jeux01.csproj": {}
   },
   "projects": {
@@ -12,14 +13,29 @@
         "projectPath": "C:\\Users\\fanny.bouffanais\\Desktop\\testcicd\\jeux01\\Jeux01.csproj",
         "packagesPath": "C:\\Users\\fanny.bouffanais\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\fanny.bouffanais\\Desktop\\testcicd\\jeux01\\obj\\",
+=======
+    "C:\\Users\\manon.touchard\\Documents\\01_COURS\\C_PRO\\USINE DEV\\jeux01\\Jeux01.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\manon.touchard\\Documents\\01_COURS\\C_PRO\\USINE DEV\\jeux01\\Jeux01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manon.touchard\\Documents\\01_COURS\\C_PRO\\USINE DEV\\jeux01\\Jeux01.csproj",
+        "projectName": "Jeux01",
+        "projectPath": "C:\\Users\\manon.touchard\\Documents\\01_COURS\\C_PRO\\USINE DEV\\jeux01\\Jeux01.csproj",
+        "packagesPath": "C:\\Users\\manon.touchard\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manon.touchard\\Documents\\01_COURS\\C_PRO\\USINE DEV\\jeux01\\obj\\",
+>>>>>>> master
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\fanny.bouffanais\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+=======
+          "C:\\Users\\manon.touchard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> master
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
