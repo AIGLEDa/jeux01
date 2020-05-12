@@ -1,3 +1,7 @@
 .vs/
 bin/*
 obj/*
+obj/Debug/netcoreapp3.1/Jeux01.csprojAssemblyReference.cache
+*.cache
+obj/Debug/netcoreapp3.1/Jeux01.csprojAssemblyReference.cache
+obj/Debug/netcoreapp3.1/Jeux01.csprojAssemblyReference.cache
