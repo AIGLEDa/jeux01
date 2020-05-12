@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\damien.aigle\\.nuget\\packages\\": {},
+    "C:\\Users\\astrid.rangba\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damien.aigle\\Desktop\\CsharpExoDamienPerso\\exo1\\jeux01RPG\\Jeux01\\Jeux01.csproj",
+      "projectUniqueName": "C:\\Users\\astrid.rangba\\Documents\\GIT\\CSHARP_ARCHI_APIREST\\Damien\\jeux01\\Jeux01.csproj",
       "projectName": "Jeux01",
-      "projectPath": "C:\\Users\\damien.aigle\\Desktop\\CsharpExoDamienPerso\\exo1\\jeux01RPG\\Jeux01\\Jeux01.csproj",
-      "packagesPath": "C:\\Users\\damien.aigle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damien.aigle\\Desktop\\CsharpExoDamienPerso\\exo1\\jeux01RPG\\Jeux01\\obj\\",
+      "projectPath": "C:\\Users\\astrid.rangba\\Documents\\GIT\\CSHARP_ARCHI_APIREST\\Damien\\jeux01\\Jeux01.csproj",
+      "packagesPath": "C:\\Users\\astrid.rangba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\astrid.rangba\\Documents\\GIT\\CSHARP_ARCHI_APIREST\\Damien\\jeux01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\damien.aigle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\astrid.rangba\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
