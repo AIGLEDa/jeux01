@@ -1,5 +1,4 @@
 .vs/
-
 bin/*
 obj/*
 .idea/
@@ -15,3 +14,4 @@ obj/Jeux01.csproj.nuget.cache
 obj/Jeux01.csproj.nuget.dgspec.json
 obj/Jeux01.csproj.nuget.g.props
 obj/project.assets.json
+
