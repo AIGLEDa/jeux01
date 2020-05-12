@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\damien.aigle\\.nuget\\packages\\": {},
+    "C:\\Users\\morgane.dumarque\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damien.aigle\\Desktop\\CsharpExoDamienPerso\\exo1\\jeux01RPG\\Jeux01\\Jeux01.csproj",
+      "projectUniqueName": "C:\\Users\\morgane.dumarque\\Desktop\\COURS\\GIT\\cicd\\projet damien\\jeux01\\Jeux01.csproj",
       "projectName": "Jeux01",
-      "projectPath": "C:\\Users\\damien.aigle\\Desktop\\CsharpExoDamienPerso\\exo1\\jeux01RPG\\Jeux01\\Jeux01.csproj",
-      "packagesPath": "C:\\Users\\damien.aigle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damien.aigle\\Desktop\\CsharpExoDamienPerso\\exo1\\jeux01RPG\\Jeux01\\obj\\",
+      "projectPath": "C:\\Users\\morgane.dumarque\\Desktop\\COURS\\GIT\\cicd\\projet damien\\jeux01\\Jeux01.csproj",
+      "packagesPath": "C:\\Users\\morgane.dumarque\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\morgane.dumarque\\Desktop\\COURS\\GIT\\cicd\\projet damien\\jeux01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\damien.aigle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\morgane.dumarque\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
